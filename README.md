@@ -22,3 +22,32 @@ https://todolisthypen.netlify.app/login
 - Deployment: Netlify
 
 ## 📂 Folder Structure
+/src
+├── components
+├── pages
+├── redux
+├── App.js
+└── index.js
+
+
+## 🔑 How It Works
+1. User logs in using email and password.
+2. After login, user can manage tasks.
+3. Tasks can be added, edited, or deleted.
+4. Data is stored and updated dynamically.
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+npm install
+npm start
+🌐 Deployment
+
+The project is deployed on Netlify for fast and reliable hosting.
+
+📌 Future Improvements
+Signup/Register feature
+Task deadlines & reminders
+Drag & drop tasks
+Dark mode UI
