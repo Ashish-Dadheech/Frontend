@@ -1,16 +1,24 @@
-# React + Vite
+# 📝 Todo List Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and user-friendly Todo List application that helps users manage their daily tasks efficiently. Users can create, update, and delete tasks after logging into the system.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://todolisthypen.netlify.app/login
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- 🔐 User Authentication (Login system)
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 📋 View all tasks in one place
+- 💻 Responsive UI
 
-## React Compiler
+## 🛠️ Tech Stack
+- Frontend: React.js
+- State Management: Redux (if used)
+- Styling: CSS / Material UI
+- Backend: Node.js / Express (if applicable)
+- Database: MongoDB (if used)
+- Deployment: Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Folder Structure
