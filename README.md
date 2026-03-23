@@ -5,7 +5,7 @@ A simple and user-friendly Todo List application that helps users manage their d
 ##  Live Demo
 https://todolisthypen.netlify.app
 
-## ✨ Features
+##  Features
 -  User Authentication (Login system)
 -  Add new tasks
 -  Edit existing tasks
@@ -30,23 +30,23 @@ https://todolisthypen.netlify.app
 └── index.js
 
 
-## 🔑 How It Works
+## How It Works
 1. User logs in using email and password.
 2. After login, user can manage tasks.
 3. Tasks can be added, edited, or deleted.
 4. Data is stored and updated dynamically.
 
-## ⚙️ Installation
+##  Installation
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
 npm install
 npm start
-🌐 Deployment
+ Deployment
 
 The project is deployed on Netlify for fast and reliable hosting.
 
-📌 Future Improvements
+ Future Improvements
 Signup/Register feature
 Task deadlines & reminders
 Drag & drop tasks
