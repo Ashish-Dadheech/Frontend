@@ -1,4 +1,4 @@
-# 📝 Todo List Web App
+#  Todo List Web App
 
 A simple and user-friendly Todo List application that helps users manage their daily tasks efficiently. Users can create, update, and delete tasks after logging into the system.
 
@@ -21,7 +21,7 @@ https://todolisthypen.netlify.app
 - Database: MongoDB (if used)
 - Deployment: Netlify
 
-## 📂 Folder Structure
+##  Folder Structure
 /src
 ├── components
 ├── pages
