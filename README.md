@@ -3,7 +3,7 @@
 A simple and user-friendly Todo List application that helps users manage their daily tasks efficiently. Users can create, update, and delete tasks after logging into the system.
 
 ## 🚀 Live Demo
-https://todolisthypen.netlify.app/login
+https://todolisthypen.netlify.app
 
 ## ✨ Features
 - 🔐 User Authentication (Login system)
